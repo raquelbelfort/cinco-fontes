@@ -1,0 +1,50 @@
+h1{
+    color: rgb(75, 0, 145);
+    background-color: rgb(215, 172, 255);
+    text-align: center;
+    text-decoration: underline;
+    font-size: 46px;
+}
+
+h2{
+    color: rgb(214, 1, 150);
+    background-color: rgb(255, 185, 252);
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+
+.times{
+    text-align: center;
+    font-family: 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+.arial{
+    text-align: center;
+    font-family: 'Arial Narrow', sans-serif;
+    font-size: 20px;
+
+}
+
+.papyrus{
+    text-align: center;
+    font-family: 'Papyrus', fantasy;
+    font-size: 20px;
+
+}
+
+.amaticsc{
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    font-size: 20px;
+
+
+}
+
+.cnew{
+    text-align: center;
+    font-family: 'Courier New', monospace;
+    font-size: 20px;
+}
